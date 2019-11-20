@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=starter2.MailConfig
+org.springframework.context.ApplicationContextInitializer=starter2.MailApplicationContextInit
